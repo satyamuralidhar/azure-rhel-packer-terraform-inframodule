@@ -1,0 +1,1 @@
+# azure-rhel-packer-terraform-inframodule
