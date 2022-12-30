@@ -1,0 +1,1 @@
+#update the resource group name and access keys and token on packer.auto.pkrvars.hcl
